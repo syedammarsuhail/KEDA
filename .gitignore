@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+*.kubeconfig
+kubeconfig*
+.env
+docs/screenshots/*
+!docs/screenshots/.gitkeep
+!docs/screenshots/README.md
